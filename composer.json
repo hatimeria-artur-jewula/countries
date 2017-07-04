@@ -1,6 +1,6 @@
 {
-  "name": "mledoze-clone/countries",
-  "version": "1.8.1",
+  "name": "anddare-lib/countries",
+  "version": "1.0.0",
   "description": "World countries in JSON, CSV, XML and Yaml",
   "keywords": [
     "world",
